@@ -1,0 +1,197 @@
+baseURL = "https://3dprintconcrete.com/"
+languageCode = "en-us"
+title = "3D Print Concrete"
+theme = "printwire"
+
+[params]
+tagline       = "Concrete extrusion and D-shape printing for structural walls, off-site fabrication, and complex architectural concrete elements."
+description   = "3D Print Concrete covers additive construction — shotcrete printing, extruded concrete, and binder jetting of concrete for housing, infrastructure, and architectural applications."
+keywords      = "concrete 3D printing, additive construction, shotcrete printing, D-shape printing, construction AM, printed concrete wall, housing 3D print"
+logoEmoji     = "🏗️"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#e8724a"
+colorPrimaryDark  = "#c85e3a"
+colorPrimaryLight = "#f08a65"
+colorBgDark       = "#0d0c0b"
+colorBgSection    = "#111110"
+colorBgCard       = "#181614"
+colorBgCardHover  = "#201e1b"
+colorBorder       = "rgba(232,114,74,0.22)"
+colorBorderLight  = "rgba(232,114,74,0.10)"
+
+fontPrimary   = "Archivo+Black"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = [
+  "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80",
+  "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80",
+]
+
+heroEyebrow  = "Concrete Additive Manufacturing"
+heroTitle    = "3D Print <em>Concrete</em>"
+heroSubtitle = "Concrete extrusion and D-shape printing for structural walls, off-site fabrication, and complex architectural concrete elements."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80"
+
+overviewLabel   = "Concrete AM"
+overviewTitle   = "Printing with Concrete"
+overviewText    = "Extrusion concrete printing eliminates formwork, reduces material waste by 40%, and enables free-form geometry impossible in conventional cast concrete."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsLabel = "Applications"
+applicationsTitle = "Industries We Serve"
+servicesLabel    = "What We Do"
+servicesTitle    = "3D Print Concrete Services"
+servicesSubtitle = "Concrete extrusion and D-shape printing for structural walls, off-site fabrication, and complex architectural concrete elements."
+clusterLabel = "PrintWire Network"
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Concrete extrusion and D-shape printing for structural walls, off-site fabrication, and complex architectural concrete elements."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 40
+suffix = "%"
+label  = "Material vs Formwork"
+
+[[params.stats]]
+count  = 24
+suffix = "hr"
+label  = "Wall-to-Walk-In (small dwelling)"
+
+[[params.stats]]
+count  = 70
+suffix = "%"
+label  = "Labour Reduction"
+
+[[params.stats]]
+count  = 10
+suffix = "B+"
+label  = "Construction AM by 2030"
+
+
+[[params.applications]]
+title       = "Residential Construction"
+description = "Single-storey homes and housing modules printed in 24–72 hours with integrated services."
+image       = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80"
+
+[[params.applications]]
+title       = "Infrastructure & Civil"
+description = "Bridge abutments, retaining walls, and drainage channels printed on-site."
+image       = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80"
+
+[[params.applications]]
+title       = "Architectural Facades"
+description = "Complex curved and textured concrete facades without custom formwork costs."
+image       = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80"
+
+[[params.applications]]
+title       = "Disaster Relief Housing"
+description = "Rapid deployment printed shelters for emergency housing in disaster zones."
+image       = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "🏗️"
+title       = "Structural Wall Printing"
+description = "Extruded concrete walls up to 3m height — integrated insulation channels, reinforcement pockets, and service conduits."
+
+[[params.servicesPreview]]
+icon        = "⬡"
+title       = "Off-Site Precast Elements"
+description = "Factory-printed concrete panels, columns, and beams for rapid site assembly."
+
+[[params.servicesPreview]]
+icon        = "🏛️"
+title       = "Architectural Concrete"
+description = "Complex free-form concrete geometry for facades, sculptures, and bespoke architectural elements."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Mix Design & Consulting"
+description = "Printable concrete mix design, pumpability testing, and buildability analysis for client-specified performance."
+
+
+[[params.services]]
+name        = "Structural Wall Printing"
+description = "Extruded concrete walls up to 3m height — integrated insulation channels, reinforcement pockets, and service conduits."
+icon        = "🏗️"
+image       = "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80"
+
+[[params.services]]
+name        = "Off-Site Precast Elements"
+description = "Factory-printed concrete panels, columns, and beams for rapid site assembly."
+icon        = "⬡"
+image       = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80"
+
+[[params.services]]
+name        = "Architectural Concrete"
+description = "Complex free-form concrete geometry for facades, sculptures, and bespoke architectural elements."
+icon        = "🏛️"
+image       = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80"
+
+[[params.services]]
+name        = "Mix Design & Consulting"
+description = "Printable concrete mix design, pumpability testing, and buildability analysis for client-specified performance."
+icon        = "🔬"
+image       = "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprintarchitecture.com"
+url         = "https://3dprintarchitecture.com"
+description = "Architecture AM flagship"
+
+[[params.clusterLinks]]
+name        = "3dprintconcrete.com"
+url         = "https://3dprintconcrete.com"
+description = "Concrete 3D printing"
+
+[[params.clusterLinks]]
+name        = "3dprintcities.com"
+url         = "https://3dprintcities.com"
+description = "Urban construction AM"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing"
+
+[[menu.main]]
+name   = "Home"
+url    = "/"
+weight = 1
+
+[[menu.main]]
+name   = "About"
+url    = "/about/"
+weight = 2
+
+[[menu.main]]
+name   = "Articles"
+url    = "/articles/"
+weight = 3
+
+[[menu.main]]
+name   = "Services"
+url    = "/services/"
+weight = 4
+
+[[menu.main]]
+name   = "Contact"
+url    = "/contact/"
+weight = 5
+
+[[menu.main]]
+name   = "Advertise"
+url    = "/advertise/"
+weight = 6
