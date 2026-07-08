@@ -1,9 +1,17 @@
 baseURL = "https://3dprintconcrete.com/"
 languageCode = "en-us"
 title = "3D Print Concrete"
-theme = "printwire"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
+siteName      = "3D Print Concrete"
 tagline       = "Concrete extrusion and D-shape printing for structural walls, off-site fabrication, and complex architectural concrete elements."
 description   = "3D Print Concrete covers additive construction — shotcrete printing, extruded concrete, and binder jetting of concrete for housing, infrastructure, and architectural applications."
 keywords      = "concrete 3D printing, additive construction, shotcrete printing, D-shape printing, construction AM, printed concrete wall, housing 3D print"
