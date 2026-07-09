@@ -11,6 +11,7 @@ title = "3D Print Concrete"
       unsafe = true
 
 [params]
+ogImage       = "/images/05_facade_gradient.png"
 siteName      = "3D Print Concrete"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">CONCRETE</span>'
 tagline       = "Concrete extrusion and D-shape printing for structural walls, off-site fabrication, and complex architectural concrete elements."
