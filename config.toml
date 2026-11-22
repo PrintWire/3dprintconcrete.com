@@ -15,7 +15,7 @@ ogImage       = "/images/05_facade_gradient.png"
 siteName      = "3D Print Concrete"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">CONCRETE</span>'
 tagline       = "Concrete extrusion and D-shape printing for structural walls, off-site fabrication, and complex architectural concrete elements."
-description   = "3D Print Concrete covers additive construction — shotcrete printing, extruded concrete, and binder jetting of concrete for housing, infrastructure, and architectural applications."
+description   = "3D Print Concrete is a PrintWire network site about concrete 3D printing. PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
 keywords      = "concrete 3D printing, additive construction, shotcrete printing, D-shape printing, construction AM, printed concrete wall, housing 3D print"
 logoEmoji     = "🏗️"
 contactEmail  = "maxdavisgroup@gmail.com"
